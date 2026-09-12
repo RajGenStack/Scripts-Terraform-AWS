@@ -7,6 +7,17 @@ A single-file Terraform configuration that launches an Ubuntu EC2 instance in th
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+<p>
+  <img alt="Last commit" src="https://img.shields.io/github/last-commit/RajGenStack/Scripts-Terraform-AWS?style=flat-square&labelColor=0d1117&color=ff6b35">
+  <img alt="Top language" src="https://img.shields.io/github/languages/top/RajGenStack/Scripts-Terraform-AWS?style=flat-square&labelColor=0d1117&color=8b949e">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/RajGenStack/Scripts-Terraform-AWS?style=flat-square&labelColor=0d1117&color=8b949e">
+</p>
+
+## What this demonstrates
+
+- Bootstrapping a build server declaratively with cloud-init user data instead of manual setup
+- Keeping the attack surface small: only SSH is open, and the README documents tunnelling rather than opening more ports
+
 ## What it creates
 
 | Resource | Configuration |
